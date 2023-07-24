@@ -1,0 +1,13 @@
+#no{
+
+    margin-top: 50vh;
+    color: red;
+    font-size: 4rem;
+
+}
+body{
+    background-color:skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
